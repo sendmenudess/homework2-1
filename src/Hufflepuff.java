@@ -1,4 +1,4 @@
-public class Hufflepuff extends Hogwarts{
+public class Hufflepuff extends Hogwarts {
     int hardworking;
     int loyal;
     int honest;

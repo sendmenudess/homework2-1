@@ -3,7 +3,7 @@ public class Hogwarts {
     int transgress;
     String name;
 
-    public Hogwarts(String name,int magicPower, int transgress) {
+    public Hogwarts(String name, int magicPower, int transgress) {
         this.name = name;
         this.magicPower = magicPower;
         this.transgress = transgress;
