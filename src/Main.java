@@ -18,7 +18,7 @@ public class Main {
         HogwartsBook.comparisonOfRavenclaw(marcus, padma);
         HogwartsBook.comparisonOfSlytherin(draco, gregory);
         HogwartsBook.printStudent(draco);
-        HogwartsBook.comparingStudents(harry, draco);
+        HogwartsBook.comparingStudents(harry, zakharia);
     }
 
 
